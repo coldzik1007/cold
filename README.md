@@ -1,4 +1,4 @@
-# cold
+# Growtopia GrowZax Lua executor
 growtopia lua executor hacks trainer with proxy casino
 # Open GrowZax 
 Then open GT
